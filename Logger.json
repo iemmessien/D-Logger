@@ -1,0 +1,35 @@
+{"message":"Hello, there!","system_uptime (ms)":1711788867835.79,"timestamp":"Sat Mar 30 09:54:27 2024\n","verbosity":"INFO"}{"message":"Hello, there!","system_uptime (ms)":1711788992068.642,"timestamp":"Sat Mar 30 09:56:32 2024\n","verbosity":"INFO"}
+{"message":"Hello, there!","system_uptime (ms)":1711789100130.192,"timestamp":"Sat Mar 30 09:58:20 2024\n","verbosity":"INFO"}
+{"message":"Hello, there!","system_uptime (ms)":1711789229386.619,"timestamp":"Sat Mar 30 10:00:29 2024\n","verbosity":"INFO"}[Sat Mar 30 10:04:54 2024
+][DEBUG] system: (1.71179e+012 ms) Hello!
+
+{"message":"Hello, there!","system_uptime (ms)":1711789494063.877,"timestamp":"Sat Mar 30 10:04:54 2024\n","verbosity":"INFO"}
+[Sat Mar 30 10:07:04 2024
+][DEBUG] system: (1.71179e+012 ms) Hello!
+{"message":"Hello, there!","system_uptime (ms)":1711789624146.711,"timestamp":"Sat Mar 30 10:07:04 2024\n","verbosity":"INFO"}
+[Sat Mar 30 10:12:06 2024
+][DEBUG] uptime: (1.71179e+012 ms) Hello!
+Sat Mar 30 10:12:06 2024
+, INFO, 1.71179e+012 ms, Hello, there!
+[Sat Mar 30 10:14:42 2024
+][DEBUG] uptime: (1.71179e+012 ms) Hello!
+timestamp: Sat Mar 30 10:14:42 2024
+, verbosity: INFO, uptime: 1.71179e+012 ms, message: Hello, there!
+[Sat Mar 30 10:17:08 2024
+][DEBUG] uptime: (1.71179e+012 ms) Hello!
+, message: Hello, there!
+[Sat Mar 30 10:26:56 2024
+][DEBUG] uptime: (1.71179e+012 ms) Hello!
+, message: Hello, there!
+[Sat Mar 30 15:13:47 2024
+][DEBUG] uptime: (1.71181e+012 ms) Hello!
+, message: Hello, there!
+[Sat Mar 30 15:18:59 2024
+][DEBUG] uptime: (1.71181e+012 ms) Hello!
+, message: Hello, there!
+[Sat Mar 30 15:22:40 2024
+][DEBUG] uptime: (1.71181e+012 ms) Hello!
+, message: Hello, there!
+[Sat Mar 30 15:26:58 2024
+][DEBUG] uptime: (1.71181e+012 ms) Hello!
+, message: Hello, there!

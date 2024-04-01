@@ -1,0 +1,58 @@
+[Sat Mar 30 09:28:14 2024
+][INFO][1.71179e+012]Hello, there!
+[Sat Mar 30 09:37:34 2024
+][INFO][1.71179e+012]Hello, there!
+
+[Sat Mar 30 09:40:04 2024
+][INFO][1.71179e+012]Hello, there!
+[Sat Mar 30 09:41:32 2024
+][INFO][1.71179e+012] Hello, there!
+[Sat Mar 30 09:43:12 2024
+][INFO] system: ( 1.71179e+012 ms) Hello, there!
+{"message":"Hello, there!","system_uptime":1711788627388.309,"timestamp":"Sat Mar 30 09:50:27 2024\n","verbosity":"INFO"}
+
+[Sat Mar 30 15:29:53 2024
+][DEBUG] uptime: (1.71181e+012 ms) Hello!
+, message: Hello, there!
+[Sat Mar 30 15:35:41 2024
+][DEBUG] uptime: (1.71181e+012 ms) Hello!
+, message: Hello, there!
+[Sat Mar 30 15:39:30 2024
+][DEBUG] uptime: (1.71181e+012 ms) Hello!
+, message: Hello, there!-------------------------------------------------------------------------------------
+                                                                                     
+[ Logger started at: ][Sat Mar 30 16:23:10 2024][Users\E\Documents\Visual_Studio_2019\Projects\OnboardControl\OnboardControl\src\Threads\Logger.cpp]
+                                                                                     
+-------------------------------------------------------------------------------------
+
+[Sat Mar 30 16:24:41 2024
+][DEBUG] uptime: (1.71181e+012 ms) Hello!
+, message: Hello, there!-------------------------------------------------------------------------------------
+                                                                                     
+[ Logger started at: Sat Mar 30 16:26:55 2024] [Users\E\Documents\Visual_Studio_2019\Projects\OnboardControl\OnboardControl\src\Threads\Logger.cpp]
+                                                                                     
+-------------------------------------------------------------------------------------
+
+[Sat Mar 30 16:27:41 2024
+][DEBUG] uptime: (1.71181e+012 ms) Hello!
+, message: Hello, there!-------------------------------------------------------------------------------------
+                                                                                     
+[Logger started at: Sat Mar 30 16:29:58 2024] [Users\E\Documents\Visual_Studio_2019\Projects\OnboardControl\OnboardControl\src\Threads\Logger.cpp]
+                                                                                     
+-------------------------------------------------------------------------------------
+
+[Sat Mar 30 16:30:38 2024
+][DEBUG] uptime: (1.71181e+012 ms) Hello!
+, message: Hello, there!-------------------------------------------------------------------------------------
+                                                                                     
+[Logger started at: Sat Mar 30 16:29:58 2024] [Users\E\Documents\Visual_Studio_2019\Projects\OnboardControl\OnboardControl\src\Threads\Logger.cpp]
+                                                                                     
+-------------------------------------------------------------------------------------
+
+[Sat Mar 30 21:41:13 2024
+][DEBUG] uptime: (1.71183e+012 ms) Hello!
+, message: Hello, there!-------------------------------------------------------------------------------------
+                                                                                     
+[Logger started at: Sat Mar 30 21:43:19 2024] [Users\E\Documents\Visual_Studio_2019\Projects\OnboardControl\OnboardControl\src\Threads\Logger.cpp]
+                                                                                     
+-------------------------------------------------------------------------------------
